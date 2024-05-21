@@ -1,0 +1,83 @@
+.profile-wrapper {
+  background-color: #e5e5e5;
+  padding: 5% 10%;
+}
+
+.profile-heading {
+  font-family: "Product Sans", "sans-serif";
+  font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 5%;
+}
+
+.profile-detail-wrapper {
+  margin-left: 10%;
+}
+
+.profile-detail-heading {
+  font-family: "Product Sans", "sans-serif";
+  color: #c32424;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.profile-detail-content {
+  font-family: "Product Sans", "sans-serif";
+  color: #616161;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.donation-box {
+  background-color: #ffff;
+  padding: 5% 5% 1% 5%;
+}
+
+.donation-heading {
+  font-family: "Product Sans", "sans-serif";
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.donation-date {
+  font-size: 9px;
+  font-weight: 300;
+}
+
+.donation-total {
+  color: #974a4a;
+  font-size: 10px;
+  font-weight: 900;
+  display: inline-block;
+  margin-right: 55%;
+}
+
+.donation-status-success {
+  line-height: 2;
+  text-align: center;
+  font-weight: 900;
+  padding: 0 6%;
+  font-size: 10px;
+  height: 19px;
+  border-radius: 2px;
+  border-color: #aafad0;
+  background: #aafad0;
+  color: #00ff47;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.donation-status-pending {
+  line-height: 2;
+  text-align: center;
+  font-weight: 900;
+  padding: 0 6%;
+  font-size: 10px;
+  height: 19px;
+  border-radius: 2px;
+  border-color: #ee7863;
+  background: #ee7863;
+  color: #c32424;
+  cursor: not-allowed;
+  pointer-events: none;
+}

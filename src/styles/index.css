@@ -1,0 +1,52 @@
+@import url("https://fonts.cdnfonts.com/css/avenir-lt-std");
+@import url("https://fonts.cdnfonts.com/css/product-sans");
+@import "./ChatStyle.css";
+@import "./DonateInfoStyle.css";
+@import "./DropdownStyle.css";
+@import "./FormfundpageStyle.css";
+@import "./HomepageStyle.css";
+@import "./NavbarStyle.css";
+@import "./ProfilepageStyle.css";
+
+html {
+  background-color: #e5e5e5;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Avenir LT Std", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.donate-card-img {
+  width: inherit;
+  height: auto;
+  object-fit: cover;
+}
+
+.prev-img {
+  width: 22rem;
+  height: auto;
+  object-fit: cover;
+}
+
+.approve-img {
+  width: 26.25rem;
+  height: auto;
+  object-fit: cover;
+}
+
+.w-45 {
+  width: 45%;
+}
+
+.ml-7 {
+  margin-left: 3%;
+}
+
+.ml-40 {
+  margin-left: 40%;
+}
+
+.ml-50 {
+  margin-left: 50%;
+}
